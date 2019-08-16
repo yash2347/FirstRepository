@@ -8,7 +8,7 @@ public apples()
 {this.hour=2;
 this.minute=36;
 this.seconds=24;
-System.out.printf("the time right now in normal format is %s",this);	
+System.out.printf(" Hello it was good tos see you the first time the time right now in normal format is %s",this);	
 }
 public void setTime(int h,int m,int s) {
 	hour=((h>=0 && h<24)?h:0);
